@@ -1,0 +1,15 @@
+gradio
+python-dotenv
+beautifulsoup4
+
+langchain-core
+langchain
+langchain-community
+langchain-mistralai
+langgraph
+
+tavily-python
+requests
+huggingface-hub
+datasets
+lxml
