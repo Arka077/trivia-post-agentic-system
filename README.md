@@ -2,6 +2,8 @@
 
 An intelligent multi-agent workflow system that discovers, curates, writes, and evaluates engaging scientific content for social media. Built with LangGraph, Mistral AI, and synchronized to Hugging Face Datasets for persistent cloud storage.
 
+🚀 **[Try the live demo on Hugging Face Spaces](https://huggingface.co/spaces/arka7/Trivia-Agent)**
+
 ## ✨ Features
 
 - **🤖 Multi-Agent Workflow**: Specialized agents for discovery, curation, writing, and quality control
